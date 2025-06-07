@@ -170,15 +170,11 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
-
-            p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/62476" target="_blank" rel="noopener noreferrer") Moreno Pérez, J. C. (2015). Programación: ( ed.). RA-MA Editorial. 
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+              a(href="https://www.youtube.com/watch?v=ue5sr5ZLLxc" target="_blank" rel="noopener noreferrer") Daniel PC. (2020, 24 de agosto). 6.-Curso Programación - Algoritmos ¿Qué son Variables y Constantes?
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
